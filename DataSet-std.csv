@@ -142,10 +142,10 @@ Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Civil Engineeri
 Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Economics (5 Years, Integrated Master of Science)",1013,658,ST
 Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Electrical Engineering (4 Years, Bachelor of Technology)",32,32,OPEN (PwD)
 Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Electronics and Electrical Communication Engineering (4 Years, Bachelor of Technology)",19,19,OBC-NCL (PwD)
-Indian Institute of Technology Bhubaneswar,AI,Gender-Neutral,2016,"Civil Engineering and M. Tech. in Structural Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",7295,5408,OPEN
-Indian Institute of Technology Bhubaneswar,AI,Gender-Neutral,2016,"Civil Engineering and M.Tech in Transportation Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",1641,1362,SC
-Indian Institute of Technology Bhubaneswar,AI,Gender-Neutral,2016,"Electrical Engineering (4 Years, Bachelor of Technology)",541,455,ST
-Indian Institute of Technology Bhubaneswar,AI,Gender-Neutral,2016,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",89,89,OPEN (PwD)
+Indian Institute of Technology Bhubaneswar,AI,Gender-Neutral,2016,"Civil Engineering and M. Tech. in Structural Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",,5408,OPEN
+Indian Institute of Technology Bhubaneswar,AI,Gender-Neutral,2016,"Civil Engineering and M.Tech in Transportation Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",,1362,SC
+Indian Institute of Technology Bhubaneswar,AI,Gender-Neutral,2016,"Electrical Engineering (4 Years, Bachelor of Technology)",,455,ST
+Indian Institute of Technology Bhubaneswar,AI,Gender-Neutral,2016,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",,89,OPEN (PwD)
 Indian Institute of Technology Bhubaneswar,AI,Gender-Neutral,2016,"Mechanical Engineering and M. Tech. in Thermal Science & Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",2333,2247,OBC-NCL
 Indian Institute of Technology Bombay,AI,Gender-Neutral,2016,"Aerospace Engineering (4 Years, Bachelor of Technology)",145,79,ST
 Indian Institute of Technology Bombay,AI,Gender-Neutral,2016,"Civil Engineering (4 Years, Bachelor of Technology)",50,19,OPEN (PwD)
@@ -407,15 +407,15 @@ Indian Institute of Technology Madras,AI,Gender-Neutral,2016,"Mechanical Enginee
 Indian Institute of Technology Madras,AI,Gender-Neutral,2016,"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",1283,1061,SC
 Indian Institute of Technology Madras,AI,Gender-Neutral,2016,"Mechanical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",2194,1293,OPEN
 Indian Institute of Technology Madras,AI,Gender-Neutral,2016,"Mechanical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",311,185,ST
-Indian Institute of Technology Madras,AI,Gender-Neutral,2016,"Physics (5 Years, Bachelor of Science and Master of Science (Dual Degree))",2777,2281,OBC-NCL
-Indian Institute of Technology Madras,AI,Gender-Neutral,2016,"Metallurgical and Materials Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",1730,1338,SC
-Indian Institute of Technology Madras,AI,Gender-Neutral,2016,"Physics (5 Years, Bachelor of Science and Master of Science (Dual Degree))",929,929,ST
-Indian Institute of Technology Gandhinagar,AI,Gender-Neutral,2016,"Computer Science and Engineering (4 Years, Bachelor of Technology)",576,310,SC
-Indian Institute of Technology Gandhinagar,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",49,49,OBC-NCL (PwD)
-Indian Institute of Technology Patna,AI,Gender-Neutral,2016,"Chemical Engineering (4 Years, Bachelor of Technology)",7891,6560,OPEN
-Indian Institute of Technology Gandhinagar,AI,Gender-Neutral,2016,"Computer Science and Engineering (4 Years, Bachelor of Technology)",237,230,ST
-Indian Institute of Technology Patna,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",23,23,OPEN (PwD)
-Indian Institute of Technology Gandhinagar,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",994,678,SC
+Indian Institute of Technology Madras,AI,Gender-Neutral,2016,"Physics (5 Years, Bachelor of Science and Master of Science (Dual Degree))",,2281,OBC-NCL
+Indian Institute of Technology Madras,AI,Gender-Neutral,2016,"Metallurgical and Materials Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",,1338,SC
+Indian Institute of Technology Madras,AI,Gender-Neutral,2016,"Physics (5 Years, Bachelor of Science and Master of Science (Dual Degree))",,929,ST
+Indian Institute of Technology Gandhinagar,AI,Gender-Neutral,2016,"Computer Science and Engineering (4 Years, Bachelor of Technology)",,310,SC
+Indian Institute of Technology Gandhinagar,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",,49,OBC-NCL (PwD)
+Indian Institute of Technology Patna,AI,Gender-Neutral,2016,"Chemical Engineering (4 Years, Bachelor of Technology)",,6560,OPEN
+Indian Institute of Technology Gandhinagar,AI,Gender-Neutral,2016,"Computer Science and Engineering (4 Years, Bachelor of Technology)",,230,ST
+Indian Institute of Technology Patna,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",,23,OPEN (PwD)
+Indian Institute of Technology Gandhinagar,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",,678,SC
 Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Computer Science and Engineering (4 Years, Bachelor of Technology)",230,127,OBC-NCL
 Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Architecture (5 Years, Bachelor of Architecture)",2134,1757,SC
 Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Engineering Physics (4 Years, Bachelor of Technology)",4345,2869,OPEN
@@ -440,17 +440,17 @@ Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Ocean Engineeri
 Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Physics (5 Years, Integrated Master of Science)",3416,2631,OBC-NCL
 Indian Institute of Technology Hyderabad,AI,Gender-Neutral,2016,"Chemical Engineering (4 Years, Bachelor of Technology)",2341,1734,OBC-NCL
 Indian Institute of Technology Hyderabad,AI,Gender-Neutral,2016,"Engineering Physics (4 Years, Bachelor of Technology)",161,161,OPEN (PwD)
-Indian Institute of Technology Hyderabad,AI,Gender-Neutral,2016,"Engineering Science (4 Years, Bachelor of Technology)",2180,1751,OBC-NCL
-Indian Institute of Technology Kanpur,AI,Gender-Neutral,2016,"Aerospace Engineering (4 Years, Bachelor of Technology)",505,159,ST
-Indian Institute of Technology Kanpur,AI,Gender-Neutral,2016,"Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)",5433,3578,OPEN
-Indian Institute of Technology Kanpur,AI,Gender-Neutral,2016,"Chemical Engineering (4 Years, Bachelor of Technology)",2569,1713,OPEN
-Indian Institute of Technology Kanpur,AI,Gender-Neutral,2016,"Earth Sciences (4 Years, Bachelor of Science)",2110,1832,SC
-Indian Institute of Technology Kanpur,AI,Gender-Neutral,2016,"Electrical Engineering (4 Years, Bachelor of Technology)",798,248,OPEN
-Indian Institute of Technology Kanpur,AI,Gender-Neutral,2016,"Electrical Engineering (4 Years, Bachelor of Technology)",3,3,ST (PwD)
-Indian Institute of Technology Kanpur,AI,Gender-Neutral,2016,"Mathematics and Scientific Computing (4 Years, Bachelor of Science)",637,444,ST
-Indian Institute of Technology Kanpur,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",4,4,OBC-NCL (PwD)
-Indian Institute of Technology Madras,AI,Gender-Neutral,2016,"Aerospace Engineering (4 Years, Bachelor of Technology)",795,414,SC
-Indian Institute of Technology Madras,AI,Gender-Neutral,2016,"Aerospace Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",3251,2412,OPEN
+Indian Institute of Technology Hyderabad,AI,Gender-Neutral,2016,"Engineering Science (4 Years, Bachelor of Technology)",2180,,OBC-NCL
+Indian Institute of Technology Kanpur,AI,Gender-Neutral,2016,"Aerospace Engineering (4 Years, Bachelor of Technology)",505,,ST
+Indian Institute of Technology Kanpur,AI,Gender-Neutral,2016,"Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)",5433,,OPEN
+Indian Institute of Technology Kanpur,AI,Gender-Neutral,2016,"Chemical Engineering (4 Years, Bachelor of Technology)",2569,,OPEN
+Indian Institute of Technology Kanpur,AI,Gender-Neutral,2016,"Earth Sciences (4 Years, Bachelor of Science)",2110,,SC
+Indian Institute of Technology Kanpur,AI,Gender-Neutral,2016,"Electrical Engineering (4 Years, Bachelor of Technology)",798,,OPEN
+Indian Institute of Technology Kanpur,AI,Gender-Neutral,2016,"Electrical Engineering (4 Years, Bachelor of Technology)",3,,ST (PwD)
+Indian Institute of Technology Kanpur,AI,Gender-Neutral,2016,"Mathematics and Scientific Computing (4 Years, Bachelor of Science)",637,,ST
+Indian Institute of Technology Kanpur,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",4,,OBC-NCL (PwD)
+Indian Institute of Technology Madras,AI,Gender-Neutral,2016,"Aerospace Engineering (4 Years, Bachelor of Technology)",795,,SC
+Indian Institute of Technology Madras,AI,Gender-Neutral,2016,"Aerospace Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",3251,,OPEN
 Indian Institute of Technology Madras,AI,Gender-Neutral,2016,"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",64,64,OPEN (PwD)
 Indian Institute of Technology Gandhinagar,AI,Gender-Neutral,2016,"Computer Science and Engineering (4 Years, Bachelor of Technology)",1805,493,OPEN
 Indian Institute of Technology Patna,AI,Gender-Neutral,2016,"Chemical Engineering (4 Years, Bachelor of Technology)",46,46,OPEN (PwD)
@@ -492,7 +492,7 @@ Indian School of Mines Dhanbad,AI,Gender-Neutral,2016,"Mechanical Engineering (4
 Indian School of Mines Dhanbad,AI,Gender-Neutral,2016,"Mineral Engineering (4 Years, Bachelor of Technology)",3462,2754,OBC-NCL
 Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Mathematics and Computing (5 Years, Integrated Master of Science)",95,95,OPEN (PwD)
 Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Mathematics and Computing (5 Years, Integrated Master of Science)",823,479,ST
-Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Mechanical Engineering with M.Tech. in any of the listed specializations (5 Years, Bachelor and Master of Technology (Dual Degree))",2299,1561,OPEN
+Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Mechanical Engineering with M.Tech. in any of the listed specializations (5 Years, Bachelor and Master of Technology (Dual Degree))",,1561,OPEN
 Indian Institute of Technology Hyderabad,AI,Gender-Neutral,2016,"Civil Engineering (4 Years, Bachelor of Technology)",5300,3804,OPEN
 Indian Institute of Technology Hyderabad,AI,Gender-Neutral,2016,"Materials Science and Metallurgical Engineering (4 Years, Bachelor of Technology)",835,809,ST
 Indian Institute of Technology Hyderabad,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",1082,887,OBC-NCL
@@ -516,7 +516,7 @@ Indian School of Mines Dhanbad,AI,Gender-Neutral,2016,"Applied Geology (5 Years,
 Indian School of Mines Dhanbad,AI,Gender-Neutral,2016,"Applied Geophysics (5 Years, Integrated Master of Technology)",9589,6760,OPEN
 Indian School of Mines Dhanbad,AI,Gender-Neutral,2016,"Computer Science and Engineering (4 Years, Bachelor of Technology)",3479,1655,OPEN
 Indian School of Mines Dhanbad,AI,Gender-Neutral,2016,"Engineering Physics (4 Years, Bachelor of Technology)",949,46,ST
-Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Manufacturing Science and Engineering with M.Tech. in Industrial and Systems Engineering and Management (5 Years, Bachelor and Master of Technology (Dual Degree))",1478,1416,SC
+Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Manufacturing Science and Engineering with M.Tech. in Industrial and Systems Engineering and Management (5 Years, Bachelor and Master of Technology (Dual Degree))",1478,,SC
 Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Metallurgical and Materials Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",157,157,OPEN (PwD)
 Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Metallurgical and Materials Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",2484,2248,OBC-NCL
 Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Mining Safety Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",7423,6430,OPEN
@@ -542,13 +542,13 @@ Indian Institute of Technology Patna,AI,Gender-Neutral,2016,"Mechanical Engineer
 Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Applied Mathematics (5 Years, Integrated Master of Science)",2061,1423,OBC-NCL
 Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Bio Technology (4 Years, Bachelor of Technology)",1704,1527,SC
 Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",1441,948,OPEN
-Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",53,53,OPEN (PwD)
-Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",421,193,SC
-Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",892,657,OBC-NCL
-Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",297,247,ST
-Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",975,814,ST
-Indian School of Mines Dhanbad,AI,Gender-Neutral,2016,"Applied Geology (5 Years, Integrated Master of Technology)",908,908,ST
-Indian School of Mines Dhanbad,AI,Gender-Neutral,2016,"Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",76,76,OPEN (PwD)
+Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",,53,OPEN (PwD)
+Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",,193,SC
+Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",,657,OBC-NCL
+Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",,247,ST
+Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",,814,ST
+Indian School of Mines Dhanbad,AI,Gender-Neutral,2016,"Applied Geology (5 Years, Integrated Master of Technology)",,908,ST
+Indian School of Mines Dhanbad,AI,Gender-Neutral,2016,"Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",,76,OPEN (PwD)
 Indian School of Mines Dhanbad,AI,Gender-Neutral,2016,"Environmental Engineering (4 Years, Bachelor of Technology)",9484,7763,OPEN
 Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Industrial and Systems Engineering with M.Tech. in Industrial and Systems Engineering and Management (5 Years, Bachelor and Master of Technology (Dual Degree))",138,62,ST
 Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Instrumentation Engineering (4 Years, Bachelor of Technology)",2623,1663,OPEN
@@ -583,13 +583,13 @@ Indian School of Mines Dhanbad,AI,Gender-Neutral,2016,"Mineral Engineering (4 Ye
 Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Electronics and Electrical Communication Engineering (4 Years, Bachelor of Technology)",890,329,OPEN
 Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Electronics and Electrical Communication Engineering with M.Tech. in any of the listed specializations (5 Years, Bachelor and Master of Technology (Dual Degree))",55,55,OPEN (PwD)
 Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Exploration Geophysics (5 Years, Integrated Master of Science)",3456,2605,OBC-NCL
-Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Manufacturing Science and Engineering (4 Years, Bachelor of Technology)",1315,729,SC
-Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Electronics and Electrical Communication Engineering with M.Tech. in any of the listed specializations (5 Years, Bachelor and Master of Technology (Dual Degree))",764,450,OBC-NCL
-Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Electronics and Electrical Communication Engineering with M.Tech. in any of the listed specializations (5 Years, Bachelor and Master of Technology (Dual Degree))",1320,915,OPEN
-Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Industrial and Systems Engineering (4 Years, Bachelor of Technology)",3442,2819,OPEN
-Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",71,71,OPEN (PwD)
-Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Quality Engineering Design and Manufacturing (5 Years, Bachelor and Master of Technology (Dual Degree))",864,864,ST
-Indian Institute of Technology Hyderabad,AI,Gender-Neutral,2016,"Materials Science and Metallurgical Engineering (4 Years, Bachelor of Technology)",1736,1460,SC
+Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Manufacturing Science and Engineering (4 Years, Bachelor of Technology)",1315,,SC
+Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Electronics and Electrical Communication Engineering with M.Tech. in any of the listed specializations (5 Years, Bachelor and Master of Technology (Dual Degree))",764,,OBC-NCL
+Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Electronics and Electrical Communication Engineering with M.Tech. in any of the listed specializations (5 Years, Bachelor and Master of Technology (Dual Degree))",1320,,OPEN
+Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Industrial and Systems Engineering (4 Years, Bachelor of Technology)",3442,,OPEN
+Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",71,,OPEN (PwD)
+Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Quality Engineering Design and Manufacturing (5 Years, Bachelor and Master of Technology (Dual Degree))",864,,ST
+Indian Institute of Technology Hyderabad,AI,Gender-Neutral,2016,"Materials Science and Metallurgical Engineering (4 Years, Bachelor of Technology)",1736,,SC
 Indian Institute of Technology Kanpur,AI,Gender-Neutral,2016,"Aerospace Engineering (4 Years, Bachelor of Technology)",2988,1501,OPEN
 Indian Institute of Technology Kanpur,AI,Gender-Neutral,2016,"Chemistry (4 Years, Bachelor of Science)",6084,4814,OPEN
 Indian Institute of Technology Madras,AI,Gender-Neutral,2016,"Aerospace Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",1582,1108,OBC-NCL
@@ -616,7 +616,7 @@ Indian School of Mines Dhanbad,AI,Gender-Neutral,2016,"Electronics and Communica
 Indian School of Mines Dhanbad,AI,Gender-Neutral,2016,"Mineral Engineering (4 Years, Bachelor of Technology)",9530,7656,OPEN
 Indian School of Mines Dhanbad,AI,Gender-Neutral,2016,"Mining Engineering (4 Years, Bachelor of Technology)",8685,6529,OPEN
 Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Instrumentation Engineering (4 Years, Bachelor of Technology)",801,537,ST
-Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Manufacturing Science and Engineering with M.Tech. in Industrial and Systems Engineering and Management (5 Years, Bachelor and Master of Technology (Dual Degree))",869,869,ST
+Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Manufacturing Science and Engineering with M.Tech. in Industrial and Systems Engineering and Management (5 Years, Bachelor and Master of Technology (Dual Degree))",,869,ST
 Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Mathematics and Computing (5 Years, Integrated Master of Science)",1386,1043,OPEN
 Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",198,54,ST
 Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",624,347,OBC-NCL
@@ -643,7 +643,7 @@ Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Bio Technology (4
 Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Computer Science and Engineering (4 Years, Bachelor of Technology)",482,294,OPEN
 Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Engineering Physics (4 Years, Bachelor of Technology)",1353,976,SC
 Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Geophysical Technology (5 Years, Integrated Master of Technology)",1078,1054,ST
-Indian School of Mines Dhanbad,AI,Gender-Neutral,2016,"Applied Geophysics (5 Years, Integrated Master of Technology)",412,412,ST
+Indian School of Mines Dhanbad,AI,Gender-Neutral,2016,"Applied Geophysics (5 Years, Integrated Master of Technology)",412,,ST
 Indian School of Mines Dhanbad,AI,Gender-Neutral,2016,"Chemical Engineering (4 Years, Bachelor of Technology)",2913,2395,OBC-NCL
 Indian School of Mines Dhanbad,AI,Gender-Neutral,2016,"Civil Engineering (4 Years, Bachelor of Technology)",1517,1018,SC
 Indian School of Mines Dhanbad,AI,Gender-Neutral,2016,"Computer Science and Engineering (4 Years, Bachelor of Technology)",835,292,SC
@@ -801,7 +801,7 @@ Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Production and In
 Indian School of Mines Dhanbad,AI,Gender-Neutral,2016,"Applied Geophysics (5 Years, Integrated Master of Technology)",3602,3363,OBC-NCL
 Indian School of Mines Dhanbad,AI,Gender-Neutral,2016,"Chemical Engineering (4 Years, Bachelor of Technology)",897,824,ST
 Indian School of Mines Dhanbad,AI,Gender-Neutral,2016,"Civil Engineering (4 Years, Bachelor of Technology)",2628,2298,OBC-NCL
-Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Mining Engineering (4 Years, Bachelor of Technology)",1560,1134,SC
+Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Mining Engineering (4 Years, Bachelor of Technology)",,1134,SC
 Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2016,"Mining Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",494,494,ST
 Indian Institute of Technology Hyderabad,AI,Gender-Neutral,2016,"Chemical Engineering (4 Years, Bachelor of Technology)",474,465,ST
 Indian Institute of Technology Hyderabad,AI,Gender-Neutral,2016,"Chemical Engineering (4 Years, Bachelor of Technology)",1439,967,SC
@@ -822,12 +822,12 @@ Indian Institute of Technology Gandhinagar,AI,Gender-Neutral,2016,"Mechanical En
 Indian Institute of Technology Patna,AI,Gender-Neutral,2016,"Civil Engineering (4 Years, Bachelor of Technology)",1312,1101,SC
 Indian Institute of Technology Patna,AI,Gender-Neutral,2016,"Electrical Engineering (4 Years, Bachelor of Technology)",181,181,OPEN (PwD)
 Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Chemical Engineering (4 Years, Bachelor of Technology)",57,57,OBC-NCL (PwD)
-Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Civil Engineering (4 Years, Bachelor of Technology)",3917,1877,OPEN
-Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Civil Engineering (4 Years, Bachelor of Technology)",39,39,OBC-NCL (PwD)
-Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Civil Engineering (4 Years, Bachelor of Technology)",200,101,ST
-Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Electrical Engineering (4 Years, Bachelor of Technology)",32,32,OBC-NCL (PwD)
-Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Electrical Engineering (4 Years, Bachelor of Technology)",44,35,OPEN (PwD)
-Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Engineering Physics (4 Years, Bachelor of Technology)",2216,1604,OBC-NCL
+Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Civil Engineering (4 Years, Bachelor of Technology)",3917,,OPEN
+Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Civil Engineering (4 Years, Bachelor of Technology)",39,,OBC-NCL (PwD)
+Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Civil Engineering (4 Years, Bachelor of Technology)",200,,ST
+Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Electrical Engineering (4 Years, Bachelor of Technology)",32,,OBC-NCL (PwD)
+Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Electrical Engineering (4 Years, Bachelor of Technology)",44,,OPEN (PwD)
+Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Engineering Physics (4 Years, Bachelor of Technology)",2216,,OBC-NCL
 Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",62,49,OPEN (PwD)
 Indian Institute of Technology Roorkee,AI,Gender-Neutral,2016,"Production and Industrial Engineering (4 Years, Bachelor of Technology)",622,534,ST
 Indian School of Mines Dhanbad,AI,Gender-Neutral,2016,"Applied Geology (5 Years, Integrated Master of Technology)",2169,1823,SC
@@ -869,14 +869,14 @@ Indian Institute of Technology Guwahati,AI,Gender-Neutral,2016,"Chemical Enginee
 Indian Institute of Technology Ropar,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",5010,2995,OPEN
 Indian Institute of Technology Guwahati,AI,Gender-Neutral,2016,"Chemical Engineering (4 Years, Bachelor of Technology)",543,343,ST
 Indian Institute of Technology Guwahati,AI,Gender-Neutral,2016,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",667,439,SC
-Indian Institute of Technology Ropar,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",1036,717,SC
-Indian Institute of Technology Guwahati,AI,Gender-Neutral,2016,"Electronics and Electrical Engineering (4 Years, Bachelor of Technology)",578,516,SC
-Indian Institute of Technology (BHU) Varanasi,AI,Gender-Neutral,2016,"Biochemical Engineering with M.Tech. in Biochemical Engineering and Biotechnology (5 Years, Bachelor and Master of Technology (Dual Degree))",1118,262,ST
-Indian Institute of Technology Bhilai,AI,Gender-Neutral,2016,"Computer Science and Engineering (4 Years, Bachelor of Technology)",1182,869,SC
-Indian Institute of Technology (BHU) Varanasi,AI,Gender-Neutral,2016,"Chemical Engineering (4 Years, Bachelor of Technology)",35,35,OBC-NCL (PwD)
-Indian Institute of Technology Goa,AI,Gender-Neutral,2016,"Electrical Engineering (4 Years, Bachelor of Technology)",2961,2606,OBC-NCL
-Indian Institute of Technology (BHU) Varanasi,AI,Gender-Neutral,2016,"Chemical Engineering (4 Years, Bachelor of Technology)",694,512,ST
-Indian Institute of Technology Palakkad,AI,Gender-Neutral,2016,"Civil Engineering (4 Years, Bachelor of Technology)",8648,7449,OPEN
+Indian Institute of Technology Ropar,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",,717,SC
+Indian Institute of Technology Guwahati,AI,Gender-Neutral,2016,"Electronics and Electrical Engineering (4 Years, Bachelor of Technology)",,516,SC
+Indian Institute of Technology (BHU) Varanasi,AI,Gender-Neutral,2016,"Biochemical Engineering with M.Tech. in Biochemical Engineering and Biotechnology (5 Years, Bachelor and Master of Technology (Dual Degree))",,262,ST
+Indian Institute of Technology Bhilai,AI,Gender-Neutral,2016,"Computer Science and Engineering (4 Years, Bachelor of Technology)",,869,SC
+Indian Institute of Technology (BHU) Varanasi,AI,Gender-Neutral,2016,"Chemical Engineering (4 Years, Bachelor of Technology)",,35,OBC-NCL (PwD)
+Indian Institute of Technology Goa,AI,Gender-Neutral,2016,"Electrical Engineering (4 Years, Bachelor of Technology)",,2606,OBC-NCL
+Indian Institute of Technology (BHU) Varanasi,AI,Gender-Neutral,2016,"Chemical Engineering (4 Years, Bachelor of Technology)",,512,ST
+Indian Institute of Technology Palakkad,AI,Gender-Neutral,2016,"Civil Engineering (4 Years, Bachelor of Technology)",,7449,OPEN
 Indian Institute of Technology (BHU) Varanasi,AI,Gender-Neutral,2016,"Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",437,336,SC
 Indian Institute of Technology Tirupati,AI,Gender-Neutral,2016,"Electrical Engineering (4 Years, Bachelor of Technology)",6568,4547,OPEN
 Indian Institute of Technology (BHU) Varanasi,AI,Gender-Neutral,2016,"Electrical Engineering with M.Tech. in Power Electronics (5 Years, Bachelor and Master of Technology (Dual Degree))",3290,2648,OPEN
@@ -936,7 +936,7 @@ Indian Institute of Technology (BHU) Varanasi,AI,Gender-Neutral,2016,"Mining Eng
 Indian Institute of Technology (BHU) Varanasi,AI,Gender-Neutral,2016,"Pharmaceutics (5 Years, Bachelor and Master of Pharmaceutics(Dual Degree))",446,260,ST
 Indian Institute of Technology Guwahati,AI,Gender-Neutral,2016,"Chemical Engineering (4 Years, Bachelor of Technology)",48,48,OBC-NCL (PwD)
 Indian Institute of Technology Guwahati,AI,Gender-Neutral,2016,"Electronics and Electrical Engineering (4 Years, Bachelor of Technology)",19,19,OBC-NCL (PwD)
-Indian Institute of Technology Guwahati,AI,Gender-Neutral,2016,"Mathematics and Computing (4 Years, Bachelor of Technology)",1251,726,OPEN
+Indian Institute of Technology Guwahati,AI,Gender-Neutral,2016,"Mathematics and Computing (4 Years, Bachelor of Technology)",1251,,OPEN
 Indian Institute of Technology Guwahati,AI,Gender-Neutral,2016,"Mathematics and Computing (4 Years, Bachelor of Technology)",739,468,OBC-NCL
 Indian Institute of Technology Guwahati,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",317,260,ST
 Indian Institute of Technology Bhilai,AI,Gender-Neutral,2016,"Computer Science and Engineering (4 Years, Bachelor of Technology)",670,656,ST
@@ -961,7 +961,7 @@ Indian Institute of Technology (BHU) Varanasi,AI,Gender-Neutral,2016,"Pharmaceut
 Indian Institute of Technology Guwahati,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",3052,2249,OPEN
 Indian Institute of Technology Bhilai,AI,Gender-Neutral,2016,"Electrical Engineering (4 Years, Bachelor of Technology)",26,26,OBC-NCL (PwD)
 Indian Institute of Technology Bhilai,AI,Gender-Neutral,2016,"Electrical Engineering (4 Years, Bachelor of Technology)",742,548,ST
-Indian Institute of Technology Bhilai,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",3015,2435,OBC-NCL
+Indian Institute of Technology Bhilai,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",3015,,OBC-NCL
 Indian Institute of Technology Goa,AI,Gender-Neutral,2016,"Computer Science and Engineering (4 Years, Bachelor of Technology)",5164,3003,OPEN
 Indian Institute of Technology Palakkad,AI,Gender-Neutral,2016,"Civil Engineering (4 Years, Bachelor of Technology)",1645,1467,SC
 Indian Institute of Technology Palakkad,AI,Gender-Neutral,2016,"Computer Science and Engineering (4 Years, Bachelor of Technology)",664,663,ST
@@ -981,12 +981,12 @@ Indian Institute of Technology Guwahati,AI,Gender-Neutral,2016,"Chemical Enginee
 Indian Institute of Technology Guwahati,AI,Gender-Neutral,2016,"Engineering Physics (4 Years, Bachelor of Technology)",1038,137,ST
 Indian Institute of Technology Bhilai,AI,Gender-Neutral,2016,"Electrical Engineering (4 Years, Bachelor of Technology)",2997,2559,OBC-NCL
 Indian Institute of Technology Bhilai,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",8379,6128,OPEN
-Indian Institute of Technology Goa,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",7571,5594,OPEN
+Indian Institute of Technology Goa,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",,5594,OPEN
 Indian Institute of Technology Palakkad,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",2722,2079,OBC-NCL
 Indian Institute of Technology Tirupati,AI,Gender-Neutral,2016,"Civil Engineering (4 Years, Bachelor of Technology)",2814,2645,OBC-NCL
 Indian Institute of Technology Jammu,AI,Gender-Neutral,2016,"Computer Science and Engineering (4 Years, Bachelor of Technology)",723,700,ST
 Indian Institute of Technology Jammu,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",8624,6683,OPEN
-Indian Institute of Technology Jammu,AI,Gender-Neutral,2016,"Electrical Engineering (4 Years, Bachelor of Technology)",696,657,ST
+Indian Institute of Technology Jammu,AI,Gender-Neutral,2016,"Electrical Engineering (4 Years, Bachelor of Technology)",696,,ST
 Indian Institute of Technology Ropar,AI,Gender-Neutral,2016,"Civil Engineering (4 Years, Bachelor of Technology)",7372,5382,OPEN
 Indian Institute of Technology (BHU) Varanasi,AI,Gender-Neutral,2016,"Ceramic Engineering (4 Years, Bachelor of Technology)",167,167,OPEN (PwD)
 Indian Institute of Technology (BHU) Varanasi,AI,Gender-Neutral,2016,"Ceramic Engineering (4 Years, Bachelor of Technology)",2161,1607,SC
@@ -1012,7 +1012,7 @@ Indian Institute of Technology (BHU) Varanasi,AI,Gender-Neutral,2016,"Pharmaceut
 Indian Institute of Technology Guwahati,AI,Gender-Neutral,2016,"Chemical Science and Technology (4 Years, Bachelor of Technology)",960,633,ST
 Indian Institute of Technology Guwahati,AI,Gender-Neutral,2016,"Chemical Science and Technology (4 Years, Bachelor of Technology)",2635,2110,OBC-NCL
 Indian Institute of Technology Guwahati,AI,Gender-Neutral,2016,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",364,210,ST
-Indian Institute of Technology Guwahati,AI,Gender-Neutral,2016,"Electronics and Electrical Engineering (4 Years, Bachelor of Technology)",904,732,OBC-NCL
+Indian Institute of Technology Guwahati,AI,Gender-Neutral,2016,"Electronics and Electrical Engineering (4 Years, Bachelor of Technology)",,732,OBC-NCL
 Indian Institute of Technology Guwahati,AI,Gender-Neutral,2016,"Mathematics and Computing (4 Years, Bachelor of Technology)",38,38,OPEN (PwD)
 Indian Institute of Technology Palakkad,AI,Gender-Neutral,2016,"Civil Engineering (4 Years, Bachelor of Technology)",2978,2775,OBC-NCL
 Indian Institute of Technology Palakkad,AI,Gender-Neutral,2016,"Computer Science and Engineering (4 Years, Bachelor of Technology)",4981,2818,OPEN
@@ -1026,9 +1026,9 @@ Indian Institute of Technology (BHU) Varanasi,AI,Gender-Neutral,2016,"Electrical
 Indian Institute of Technology (BHU) Varanasi,AI,Gender-Neutral,2016,"Materials Science and Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",3235,2989,OBC-NCL
 Indian Institute of Technology (BHU) Varanasi,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",3800,2690,OPEN
 Indian Institute of Technology (BHU) Varanasi,AI,Gender-Neutral,2016,"Mechanical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",4036,2876,OPEN
-Indian Institute of Technology (BHU) Varanasi,AI,Gender-Neutral,2016,"Mining Engineering (4 Years, Bachelor of Technology)",3246,2650,OBC-NCL
-Indian Institute of Technology (BHU) Varanasi,AI,Gender-Neutral,2016,"Mining Engineering (4 Years, Bachelor of Technology)",1115,773,ST
-Indian Institute of Technology Guwahati,AI,Gender-Neutral,2016,"Chemical Science and Technology (4 Years, Bachelor of Technology)",6395,1890,OPEN
+Indian Institute of Technology (BHU) Varanasi,AI,Gender-Neutral,2016,"Mining Engineering (4 Years, Bachelor of Technology)",3246,,OBC-NCL
+Indian Institute of Technology (BHU) Varanasi,AI,Gender-Neutral,2016,"Mining Engineering (4 Years, Bachelor of Technology)",1115,,ST
+Indian Institute of Technology Guwahati,AI,Gender-Neutral,2016,"Chemical Science and Technology (4 Years, Bachelor of Technology)",6395,,OPEN
 Indian Institute of Technology Guwahati,AI,Gender-Neutral,2016,"Computer Science and Engineering (4 Years, Bachelor of Technology)",186,91,SC
 Indian Institute of Technology Bhilai,AI,Gender-Neutral,2016,"Mechanical Engineering (4 Years, Bachelor of Technology)",1574,1210,SC
 Indian Institute of Technology Goa,AI,Gender-Neutral,2016,"Computer Science and Engineering (4 Years, Bachelor of Technology)",1834,1312,OBC-NCL
@@ -1221,13 +1221,13 @@ Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2017,"Mathematics and
 Indian Institute of Technology Bhubaneswar,AI,Gender-Neutral,2017,"Civil Engineering (4 Years, Bachelor of Technology)",2560,1709,OBC-NCL
 Indian Institute of Technology Bhubaneswar,AI,Gender-Neutral,2017,"Mechanical Engineering (4 Years, Bachelor of Technology)",166,166,OPEN (PwD)
 Indian Institute of Technology Bhubaneswar,AI,Gender-Neutral,2017,"Mechanical Engineering and M. Tech. in Thermal Science & Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",6653,6125,OPEN
-Indian Institute of Technology Bhubaneswar,AI,Gender-Neutral,2017,"Metallurgical and Materials Engineering and M.Tech. in Materials Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",1943,1792,SC
-Indian Institute of Technology Bombay,AI,Gender-Neutral,2017,"Chemical Engineering (4 Years, Bachelor of Technology)",910,500,OBC-NCL
-Indian Institute of Technology Bombay,AI,Gender-Neutral,2017,"Economics (4 Years, Bachelor of Science)",733,137,SC
-Indian Institute of Technology Bombay,AI,Gender-Neutral,2017,"Mechanical Engineering and M.Tech. in Computer Integrated Manufacturing (5 Years, Bachelor and Master of Technology (Dual Degree))",213,91,SC
-Indian Institute of Technology Bombay,AI,Gender-Neutral,2017,"Metallurgical Engineering and Materials Science (4 Years, Bachelor of Technology)",3039,1600,OPEN
-Indian Institute of Technology Bombay,AI,Gender-Neutral,2017,"Metallurgical Engineering and Materials Science (4 Years, Bachelor of Technology)",49,49,OBC-NCL (PwD)
-Indian Institute of Technology Mandi,AI,Gender-Neutral,2017,"Electrical Engineering (4 Years, Bachelor of Technology)",1181,986,SC
+Indian Institute of Technology Bhubaneswar,AI,Gender-Neutral,2017,"Metallurgical and Materials Engineering and M.Tech. in Materials Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",,1792,SC
+Indian Institute of Technology Bombay,AI,Gender-Neutral,2017,"Chemical Engineering (4 Years, Bachelor of Technology)",,500,OBC-NCL
+Indian Institute of Technology Bombay,AI,Gender-Neutral,2017,"Economics (4 Years, Bachelor of Science)",,137,SC
+Indian Institute of Technology Bombay,AI,Gender-Neutral,2017,"Mechanical Engineering and M.Tech. in Computer Integrated Manufacturing (5 Years, Bachelor and Master of Technology (Dual Degree))",,91,SC
+Indian Institute of Technology Bombay,AI,Gender-Neutral,2017,"Metallurgical Engineering and Materials Science (4 Years, Bachelor of Technology)",,1600,OPEN
+Indian Institute of Technology Bombay,AI,Gender-Neutral,2017,"Metallurgical Engineering and Materials Science (4 Years, Bachelor of Technology)",,49,OBC-NCL (PwD)
+Indian Institute of Technology Mandi,AI,Gender-Neutral,2017,"Electrical Engineering (4 Years, Bachelor of Technology)",,986,SC
 Indian Institute of Technology Delhi,AI,Gender-Neutral,2017,"Biochemical Engineering and Biotechnology (5 Years, Bachelor and Master of Technology (Dual Degree))",4245,3058,OPEN
 Indian Institute of Technology Delhi,AI,Gender-Neutral,2017,"Biochemical Engineering and Biotechnology (5 Years, Bachelor and Master of Technology (Dual Degree))",773,773,ST
 Indian Institute of Technology Delhi,AI,Gender-Neutral,2017,"Civil Engineering (4 Years, Bachelor of Technology)",532,226,SC
@@ -1236,10 +1236,10 @@ Indian Institute of Technology Delhi,AI,Gender-Neutral,2017,"Electrical Engineer
 Indian Institute of Technology Delhi,AI,Gender-Neutral,2017,"Mathematics and Computing (5 Years, Bachelor and Master of Technology (Dual Degree))",394,332,OPEN
 Indian Institute of Technology Delhi,AI,Gender-Neutral,2017,"Mechanical Engineering (4 Years, Bachelor of Technology)",188,11,SC
 Indian Institute of Technology Delhi,AI,Gender-Neutral,2017,"Textile Technology (4 Years, Bachelor of Technology)",725,445,ST
-Indian Institute of Technology Indore,AI,Gender-Neutral,2017,"Electrical Engineering (4 Years, Bachelor of Technology)",407,301,ST
-Indian Institute of Technology Indore,AI,Gender-Neutral,2017,"Mechanical Engineering (4 Years, Bachelor of Technology)",130,130,OPEN (PwD)
-Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2017,"Aerospace Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",1645,1522,OBC-NCL
-Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2017,"Agricultural and Food Engineering (4 Years, Bachelor of Technology)",17,17,OPEN (PwD)
+Indian Institute of Technology Indore,AI,Gender-Neutral,2017,"Electrical Engineering (4 Years, Bachelor of Technology)",407,,ST
+Indian Institute of Technology Indore,AI,Gender-Neutral,2017,"Mechanical Engineering (4 Years, Bachelor of Technology)",130,,OPEN (PwD)
+Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2017,"Aerospace Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",1645,,OBC-NCL
+Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2017,"Agricultural and Food Engineering (4 Years, Bachelor of Technology)",17,,OPEN (PwD)
 Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2017,"Agricultural and Food Engineering with M.Tech. in any of the listed specializations (5 Years, Bachelor and Master of Technology (Dual Degree))",930,793,ST
 Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2017,"Biotechnology and Biochemical Engineering (4 Years, Bachelor of Technology)",5417,4262,OPEN
 Indian Institute of Technology Kharagpur,AI,Gender-Neutral,2017,"Chemical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",3808,3001,OPEN
